@@ -20,11 +20,13 @@ Frontend
 2. Axios for API requests
 3. Recharts / Chart.js for graphs
 4. Tailwind CSS / CSS for styling
+   
 Backend
 1. Node.js
 2. Express.js
 3. Multer for file upload
 4. xlsx for reading Excel files
+   
 Database
 1. MongoDB
   
